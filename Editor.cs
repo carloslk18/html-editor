@@ -113,4 +113,3 @@ public class Editor{
             file.Append(Console.ReadLine());
             file.Append(Environment.NewLine);
         }
-        while(Console.ReadKey().Key != ConsoleKey.Escape);
