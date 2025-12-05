@@ -110,4 +110,3 @@ public class Editor{
         var file = new StringBuilder();
 
         do{
-            file.Append(Console.ReadLine());
