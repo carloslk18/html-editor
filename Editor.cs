@@ -105,8 +105,3 @@ public class Editor{
         Console.WriteLine("-----------");
         Start();
     }
-
-    public static void Start(){
-        var file = new StringBuilder();
-
-        do{
