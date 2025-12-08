@@ -103,5 +103,3 @@ public class Editor{
         Console.Clear();
         Console.WriteLine("Editor Mode");
         Console.WriteLine("-----------");
-        Start();
-    }
