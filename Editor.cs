@@ -102,4 +102,3 @@ public class Editor{
         Console.ForegroundColor = ConsoleColor.Black;
         Console.Clear();
         Console.WriteLine("Editor Mode");
-        Console.WriteLine("-----------");
