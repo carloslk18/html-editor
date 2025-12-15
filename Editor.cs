@@ -101,4 +101,3 @@ public class Editor{
         Console.BackgroundColor = ConsoleColor.White;
         Console.ForegroundColor = ConsoleColor.Black;
         Console.Clear();
-        Console.WriteLine("Editor Mode");
