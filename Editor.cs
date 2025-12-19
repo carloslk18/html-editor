@@ -97,4 +97,3 @@ public class Editor{
 public class Editor{
 
     public static void Show(){
-        Console.Clear();
