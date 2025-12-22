@@ -95,5 +95,3 @@ public class Editor{
         namespace HtmlEditor{
 
 public class Editor{
-
-    public static void Show(){
