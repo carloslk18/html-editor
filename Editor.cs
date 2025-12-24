@@ -92,4 +92,3 @@ public class Editor{
 
     }
 }
-        namespace HtmlEdito
