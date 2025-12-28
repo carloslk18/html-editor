@@ -87,5 +87,3 @@ public class Editor{
 
         Console.WriteLine("-----------");
         Console.WriteLine("Do you want to save the file?");
-
-        Viewer.Show(file.ToString())
