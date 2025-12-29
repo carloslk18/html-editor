@@ -86,4 +86,3 @@ public class Editor{
         while(Console.ReadKey().Key != ConsoleKey.Escape);
 
         Console.WriteLine("-----------");
-        Console.WriteLine("Do you want to save the file?");
