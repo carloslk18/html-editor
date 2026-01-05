@@ -81,5 +81,3 @@ public class Editor{
 
         do{
             file.Append(Console.ReadLine());
-            file.Append(Environment.NewLine);
-        }
